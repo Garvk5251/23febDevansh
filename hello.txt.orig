@@ -3,6 +3,9 @@ Line 1 and 2 are moved down on dev1
 First line on master banch
 
 Second line before opeinig dev branch
+
+
+<<<<<<< HEAD
 line 5 on d2
 
 
@@ -42,3 +45,5 @@ weeewooweeewoooweeewooo
 
 
 weird shit, new changes teri pen di 
+=======
+>>>>>>> cb7ace9b902122ca9648cd7ffc7575630d222523
